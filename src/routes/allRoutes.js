@@ -13,9 +13,9 @@ import ForgetPwd from "../pages/Authentication/ForgetPassword"
 // Dashboard
 import Dashboard from "../pages/Dashboard/index"
 import Products from "../pages/Products/index"
-import Categories from "../pages/Products/index"
-import Clients from "../pages/Products/index"
-import Sales from "../pages/Products/index"
+import Categories from "../pages/Categories/index"
+import Clients from "../pages/Clients/index"
+import Sales from "../pages/Sales/index"
 
 const userRoutes = [
   { path: "/dashboard", component: Dashboard },
