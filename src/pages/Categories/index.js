@@ -53,6 +53,7 @@ const Categories = () => {
 
   const addCategoryHandler = () => {
     setAlertSuccess(true);
+    console.log("Hola taylor");
   }
 
   const data = {
